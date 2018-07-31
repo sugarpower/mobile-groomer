@@ -1,0 +1,21 @@
+.navbar-default .navbar-nav > .active {
+    color: #ffffff !important;
+    background: #9d2622 !important;
+}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #ffffff !important;
+    background: #9d2622 !important;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff !important;
+}
+
+
+.footer {
+    background-color: #104e6b;
+    color: white;
+}
